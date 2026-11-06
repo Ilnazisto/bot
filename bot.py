@@ -5,8 +5,8 @@ from aiogram.filters import CommandStart
 from aiocryptopay import AioCryptoPay, Networks
 
 # --- НАСТРОЙКИ (ВСТАВЬ СВОИ ДАННЫЕ СЮДА) ---
-BOT_TOKEN = "СЮДА_ТОКЕН_ОТ_BOTFATHER"         # В кавычках
-CRYPTO_TOKEN = "СЮДА_ТОКЕН_ОТ_CRYPTOBOT"       # В кавычках
+BOT_TOKEN = "8983777230:AAHSCWolVJ3sp4N4fmVQh_nVDPt3liXi_DI"
+CRYPTO_TOKEN = "669618:AAFMDWlIPBk2c1gA9rasRADGVpaD9QANUEW"
 CHANNEL_ID = -1001234567890                    # Без кавычек (с минусом)
 
 PRICE_STARS = 100        # Цена в звездах
